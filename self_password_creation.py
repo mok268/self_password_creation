@@ -1,7 +1,7 @@
 Name=input("Enter your name here : ")
 DOB=input("Enter Your date of birth here :")
 gender=input("Enter your gender here : ")
-religon=input("Enter your name here : ")
+religon=input("Enter your religon here : ")
 print(Name)
 print(DOB)
 print(gender)

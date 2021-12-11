@@ -1,0 +1,7 @@
+Name=input("Enter your name here : ")
+DOB=input("Enter Your date of birth here :")
+gender=input("Enter your gender here : ")
+print(Name)
+print(DOB)
+print(gender)
+print("The password created is : ",Name[0:3]+'_'+Name[-1:-4:-1]+'_'+DOB[-4:]+gender[-2::-1])
